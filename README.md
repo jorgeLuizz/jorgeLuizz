@@ -1,4 +1,4 @@
-## Oiii eu sou o Jorge Luiz, estudante junior de programação!
+## Olá eu sou o Jorge Luiz, programador Júnior!
 <div align="center">
   <a href="https://github.com/jorgeluizz">
 </div>
